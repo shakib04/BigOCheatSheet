@@ -1,6 +1,5 @@
 <h2 id="data-structures">Common Data Structure Operations</h2>
 <table class="table table-bordered table-striped">
-
     <tr>
       <th>Data Structure</th>
       <th colspan="8">Time Complexity</th>
@@ -24,7 +23,6 @@
       <th>Deletion</th>
       <th></th>
     </tr>
-
     <tr>
       <td><a href="http://en.wikipedia.org/wiki/Array_data_structure">Array</a></td>
       <td><code class="green">&Theta;(1)</code></td>
@@ -193,7 +191,6 @@
       <td><code class="yellow">O(n)</code></td>
       <td><code class="yellow">O(n)</code></td>
     </tr>
-
 </table>
 
 <h2 id="sorting">Array Sorting Algorithms</h2>
@@ -210,7 +207,6 @@
       <th>Worst</th>
       <th>Worst</th>
     </tr>
-
     <tr>
       <td><a href="http://en.wikipedia.org/wiki/Quicksort">Quicksort</a></td>
       <td><code class="orange">&Omega;(n log(n))</code></td>
@@ -302,5 +298,4 @@
       <td><code class="orange">O(n log(n))</code></td>
       <td><code class="yellow">O(n)</code></td>
    </tr>
-
 </table>
